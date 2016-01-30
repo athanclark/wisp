@@ -336,7 +336,7 @@ _wisp_ function _declarations_ can also contain documentation and some metadata:
   [x] (+ x 1))
 ```
 
-Function _expressions, though, can only have names:
+Function _expressions_, though, can only have names:
 
 ```clojure
 (fn increment
